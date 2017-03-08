@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 namespace Unit_test
 {
     //Меняем программу согласно пункту 3 задания
+    //Меняем еще раз
     class Program
     {
         static void Main(string[] args)
