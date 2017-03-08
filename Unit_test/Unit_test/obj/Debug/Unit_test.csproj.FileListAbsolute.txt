@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2012\Projects\Unit_test\Unit_test\Unit_test\bin\Debug\Unit_test.exe.config
+c:\users\user\documents\visual studio 2012\Projects\Unit_test\Unit_test\Unit_test\bin\Debug\Unit_test.exe
+c:\users\user\documents\visual studio 2012\Projects\Unit_test\Unit_test\Unit_test\bin\Debug\Unit_test.pdb
+c:\users\user\documents\visual studio 2012\Projects\Unit_test\Unit_test\Unit_test\obj\Debug\Unit_test.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2012\Projects\Unit_test\Unit_test\Unit_test\obj\Debug\Unit_test.exe
+c:\users\user\documents\visual studio 2012\Projects\Unit_test\Unit_test\Unit_test\obj\Debug\Unit_test.pdb
+C:\Git\Unit_test\Unit_test\bin\Debug\Unit_test.exe.config
+C:\Git\Unit_test\Unit_test\obj\Debug\Unit_test.exe
+C:\Git\Unit_test\Unit_test\obj\Debug\Unit_test.pdb
